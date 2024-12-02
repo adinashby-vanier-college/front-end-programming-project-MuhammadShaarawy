@@ -1,0 +1,32 @@
+.social-icons {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    max-width: 180px;
+}
+
+.social-item {
+    font-size: 18px;
+}
+
+.myContainer {
+    background-color: #6c757d;
+}
+
+.header-content {
+    width: 100%;
+    margin: 150px 0 0 30px;
+    color: #fff;
+}
+
+.header-welcome {
+    font-size: 30px;
+}
+
+.header-name {
+    font-size: 50px;
+}
+
+.header-intro {
+    font-size: 24px;
+}
