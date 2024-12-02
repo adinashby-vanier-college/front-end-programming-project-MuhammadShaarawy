@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         header: 'sections/home.html',    // Load the "home.html" into header
         navigation: 'sections/navigation.html',    // Load the "navigation.html" into main
         about: 'sections/about.html', // load the "about.html" into main
+        resume: 'sections/resume.html', //load the "resume.html" into main
         footer: 'sections/contact.html' // Load the "contact.html" into footer
     };
 
