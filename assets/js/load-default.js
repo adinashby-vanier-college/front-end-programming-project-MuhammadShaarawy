@@ -2,7 +2,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Map of container IDs and corresponding section files
     const sections = {
         header: 'sections/home.html',    // Load the "home.html" into header
-        navigation: 'sections/navigation.html',    // Load the "about.html" into main
+        navigation: 'sections/navigation.html',    // Load the "navigation.html" into main
+        about: 'sections/about.html', // load the "about.html" into main
         footer: 'sections/contact.html' // Load the "contact.html" into footer
     };
 
