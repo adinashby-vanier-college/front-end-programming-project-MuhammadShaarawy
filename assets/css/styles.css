@@ -34,7 +34,7 @@
 .header .header-content {
     width: 100%;
     position: absolute;
-    left: 0;
+    /* left: 0; */
     top: 55%;
     transform: translateY(-50%);
     color: #fff;
@@ -59,3 +59,13 @@
     font-size: calc(12px + (19 - 12) * ((100vw - 300px) / (1600 - 300)));
     margin-bottom: 40px;
 }
+
+
+/* text styles */
+.text-light {
+    color: #f8f9fa !important;
+  }
+  
+  a.text-light:hover, a.text-light:focus {
+    color: #cbd3da !important;
+  }
