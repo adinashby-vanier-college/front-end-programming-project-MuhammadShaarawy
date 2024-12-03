@@ -1,0 +1,34 @@
+{
+    "jobs": [
+        {
+            "period": "May 2023 - Sep. 2023",
+            "companyName": "BrisklyQ",
+            "jobTitle": "Web Application Support",
+            "achievements": [
+                "Pro-active support of Nurseries web application (Full-stack) for Briskly using Asp.Net Core and Angular.",
+                "Deployed Briskly web application on Google Cloud Compute Engine.",
+                "Efficiently support the application, fix the bugs and code issues."
+            ]
+        },
+        {
+            "period": "Dec. 2021 - May 2023",
+            "companyName": "MedexSepeti AE",
+            "jobTitle": "Web Development Support Specialist",
+            "achievements": [
+                "Spearheaded the application support team for MedexSepeti UAE e-commerce platform, and collaborated with the Customer service team for reporting any issues or adding new features.",
+                "Created detailed documentation for the issues, aiding in faster resolution and reducing recurring tickets by 20%",
+                "Collaborated with development team to resolve high-priority bugs, reducing critical incident resolution time by 30%"
+            ]
+        },
+        {
+            "period": "Sep 2021 - June 2022",
+            "companyName": "Aleph Labs",
+            "jobTitle": "Java Developer",
+            "achievements": [
+                "Developed Backend APIs for private soft token authentication module, and integrated micro-services using Spring boot and Apache Camel, to enable two factor authentication while login/register to the UOB Bank mobile app.",
+                "Provided 100% code coverage of the developed Backend APIs by Junit testing, to ensure functionality and provide a means of verification for refactoring efforts.",
+                "Utilized Postman to ensure that every API are Perfectly developed and running smoothly while integrated to the Frontend mobile App."
+            ]
+        }
+    ]
+}
