@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         navigation: 'sections/navigation.html',    // Load the "navigation.html" into main
         about: 'sections/about.html', // load the "about.html" into main
         resume: 'sections/resume.html', //load the "resume.html" into main
-        footer: 'sections/contact.html' // Load the "contact.html" into footer
+        contact: 'sections/contact.html' // Load the "contact.html" into footer
     };
 
     // Function to load a section
