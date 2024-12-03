@@ -155,7 +155,10 @@ mb-5,
   margin-right: 0.25rem !important;
 }
 
-
+.mb-5,
+.my-5 {
+  margin-bottom: 3rem !important;
+}
 
 /* padding */
 .pt-3,
