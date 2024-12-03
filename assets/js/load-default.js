@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
         about: 'sections/about.html', // load the "about.html" into main
         resume: 'sections/resume.html', //load the "resume.html" into main
         portfolio: 'sections/portfolio.html', //load the "portfolio.html" into main
+        services: 'sections/services.html', //load the "services.html" into main
         contact: 'sections/contact.html' // Load the "contact.html" into footer
     };
 
