@@ -247,3 +247,8 @@ mb-5,
 .footer {
   background: #17263C;
 }
+
+/* services section */
+#services {
+  margin-left: -120px;
+}

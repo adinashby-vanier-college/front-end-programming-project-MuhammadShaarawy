@@ -1,5 +1,13 @@
+ #portfolio {
+    margin-left: -120px;
+ }
+
+ .portfolio-header {
+    font-size: calc(25px + (20 - 15) * ((100vw - 300px) / (1300 - 300)));
+ }
+ 
  .portfolio {
-    /* border-bottom: 2px solid #dee2e6; */
+    border-bottom: 2px solid #dee2e6;
     border-radius: 0;
     padding-bottom: 4px;
     margin: 0 auto 20px;
@@ -7,17 +15,6 @@
     display: flex;
     justify-content: space-between;
 }
-
-
-/* .portfolio .portfolio-item {
-    position: relative;
-    padding-left: 0;
-    padding-right: 0;
-    margin: 10px -5px;
-    overflow: hidden;
-    border-radius: 2px;
-    backface-visibility: hidden;
-} */
 
 .portfolio .portfolio-item .content-holder {
     position: absolute;
